@@ -2,7 +2,7 @@
 
 Első próbálkozásom a Figma programmal, amit a Cato Recipes projekthez készítettem.
 
-## Projekt ⋆˚🐾˖°
+## Projekt
 link..
 
 ```plaintext                   
