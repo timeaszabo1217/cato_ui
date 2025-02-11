@@ -1,6 +1,7 @@
 # Cato recipes UI
 
 Első próbálkozásom a Figma programmal, amit a Cato Recipes projekthez készítettem.
+További Figma munkáimért látogasd meg a [community profilom](https://www.figma.com/@timeaszabo1217).
 
 ## Projekt
 link..
